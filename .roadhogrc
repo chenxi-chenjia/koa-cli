@@ -1,0 +1,24 @@
+{
+    "entry": "src/index.js",
+    "disableCSSModules": false,
+    "cssModulesExclude": [],
+    "publicPath": "/",
+    "outputPath": "./dist",
+    "extraBabelPlugins": ["transform-runtime"],
+    "extraPostCSSPlugins": [],
+    "sass": false,
+    "hash": false,
+    "autoprefixer": null,
+    "proxy": null,
+    "externals": null,
+    "library": null,
+    "libraryTarget": "var",
+    "multipage": false,
+    "define": null,
+    "env": {
+        "development": {
+            "extraBabelPlugins": ["dva-hmr"]
+        }
+    },
+    "theme": null,
+}

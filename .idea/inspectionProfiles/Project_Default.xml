@@ -1,0 +1,23 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="BadExpressionStatementJS" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="ChainedEqualityJS" enabled="false" level="INFORMATION" enabled_by_default="false" />
+    <inspection_tool class="ChainedFunctionCallJS" enabled="false" level="INFORMATION" enabled_by_default="false" />
+    <inspection_tool class="ConstantOnLHSOfComparisonJS" enabled="false" level="INFORMATION" enabled_by_default="false" />
+    <inspection_tool class="ConstantOnRHSOfComparisonJS" enabled="false" level="INFORMATION" enabled_by_default="false" />
+    <inspection_tool class="DuplicateCaseLabelJS" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="JSAnnotator" enabled="false" level="ERROR" enabled_by_default="false" />
+    <inspection_tool class="JSDeclarationsAtScopeStart" enabled="false" level="INFORMATION" enabled_by_default="false" />
+    <inspection_tool class="JSReferencingArgumentsOutsideOfFunction" enabled="false" level="ERROR" enabled_by_default="false" />
+    <inspection_tool class="JSUndefinedPropertyAssignment" enabled="true" level="INFORMATION" enabled_by_default="true" />
+    <inspection_tool class="NestedFunctionCallJS" enabled="false" level="INFORMATION" enabled_by_default="false" />
+    <inspection_tool class="NonBlockStatementBodyJS" enabled="false" level="INFORMATION" enabled_by_default="false" />
+    <inspection_tool class="ReservedWordUsedAsNameJS" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="ThisExpressionReferencesGlobalObjectJS" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="UnreachableCodeJS" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="UnterminatedStatementJS" enabled="true" level="INFORMATION" enabled_by_default="true">
+      <option name="ignoreSemicolonAtEndOfBlock" value="true" />
+    </inspection_tool>
+  </profile>
+</component>
